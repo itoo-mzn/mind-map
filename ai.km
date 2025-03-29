@@ -1,0 +1,1067 @@
+{
+    "root": {
+        "data": {
+            "id": "d8asavo6uvs0",
+            "created": 1741426860698,
+            "text": "人工知能\nAI",
+            "note": "人間の知能をコンピュータ上で再現する技術の総称",
+            "expandState": "expand"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "d8awglhd5nk0",
+                    "created": 1741438593142,
+                    "text": "機械学習\nML",
+                    "expandState": "expand",
+                    "layout": null,
+                    "note": "機械学習は人工知能の下位分類であり、機械（コンピューター）にデータを学習させて、予測や分類を行うモデルを構築します。"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d8asdwbl6480",
+                            "created": 1741427097205,
+                            "text": "深層学習\nDeepLearning",
+                            "layout": null,
+                            "expandState": "expand",
+                            "note": "深層学習は、人間の脳細胞の配線に似たニューロンとシナプスの概念を使用して、データを機械（コンピューター）が学習し、モデルを構築します。"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8awrwi67200",
+                                    "created": 1741439479141,
+                                    "text": "生成AI",
+                                    "note": "トレーニングデータから学習したパターンと構造に基づいて、新たなコンテンツ（テキスト、画像、音声など）を生成するAI技術の総称\n\nラベルなしデータから学習させた基盤モデルFMがあり、それを各用途に適応させて使う\n\nラベルを簡単にいうと「正解」。\n例：それに写っているのが車だという正解ラベルが付いている画像",
+                                    "expandState": "expand",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8azqkhg2ts0",
+                                            "created": 1741447837942,
+                                            "text": "基盤モデル\nFM",
+                                            "expandState": "expand",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d8hhzt2ipp40",
+                                                    "created": 1742108701626,
+                                                    "text": "種類",
+                                                    "expandState": "expand"
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d8aztqfszuo0",
+                                                            "created": 1741448085996,
+                                                            "text": "Jurassic-2\n（AI21 Labs）",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d8hi0pot1680",
+                                                            "created": 1742108772631,
+                                                            "text": "Amazon Titan"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d8aztl6hm4w0",
+                                                            "created": 1741448074548,
+                                                            "text": "Claude\n（Anthropic）",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d8hi0ytchyg0",
+                                                            "created": 1742108792496,
+                                                            "text": "Stable Diffusion\n（Stability AI）"
+                                                        },
+                                                        "children": []
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d8awkh0tqq00",
+                                                    "created": 1741438896892,
+                                                    "text": "大規模言語モデル\nLLM：Large Language Model",
+                                                    "expandState": "expand",
+                                                    "note": "大量のテキストデータを学習し、人間のような自然な文章を生成するAIモデル",
+                                                    "layout": null
+                                                },
+                                                "children": [
+                                                    {
+                                                        "data": {
+                                                            "id": "d8ase4xe0ag0",
+                                                            "created": 1741427115938,
+                                                            "text": "プロンプトエンジニアリング",
+                                                            "layout": null,
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8awz5uxti80",
+                                                                    "created": 1741440048054,
+                                                                    "text": "自分用のテンプレ作りたい",
+                                                                    "layout": null,
+                                                                    "progress": 1
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8ax1hh7d5s0",
+                                                                    "created": 1741440230073,
+                                                                    "text": "仕事の中で有効なのはどういう場面を整理しておきたい",
+                                                                    "layout": null,
+                                                                    "progress": 1
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8hkd1fcfm80",
+                                                                    "created": 1742115380770,
+                                                                    "text": "ベストプラクティス"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hkd5idi7s0",
+                                                                            "created": 1742115389660,
+                                                                            "text": "明確かつ簡潔に",
+                                                                            "note": "話し言葉のような周りくどい表現は入れない"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hkdpylnjs0",
+                                                                            "created": 1742115434177,
+                                                                            "text": "（必要に応じて）コンテキストを含める",
+                                                                            "note": "- 目的を説明\n- 入力の説明、補足情報"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hkf8mwr2w0",
+                                                                            "created": 1742115553193,
+                                                                            "text": "出力形式の指示",
+                                                                            "note": "- 形式（json、表、ブログ文章、正式名称など）\n- 長さ（X文字以上、以下）\n"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hpuwdt1q00",
+                                                                            "created": 1742130885897,
+                                                                            "text": "応答の例を提示する"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hpv765xk00",
+                                                                            "created": 1742130909380,
+                                                                            "text": "複雑なタスクは分割する\n指示を理解したどうかを尋ねる"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8hq05yagew0",
+                                                                    "created": 1742131298548,
+                                                                    "text": "プロンプトエンジニアリング手法"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hq0culal40",
+                                                                            "created": 1742131313562,
+                                                                            "text": "ゼロショット",
+                                                                            "note": "例を与えずすぐ質問する方法"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hq0t38tps0",
+                                                                            "created": 1742131348913,
+                                                                            "text": "フューショット",
+                                                                            "note": "応答の例をいくつか提示すｒ方法"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8hq1ac8caw0",
+                                                                            "created": 1742131386462,
+                                                                            "text": "思考の連鎖",
+                                                                            "note": "「ステップバイステップで考えてください。」\nと最後につけて、答えだけでなくその過程の出力を義務づける方法。"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d8awlgqpj3k0",
+                                                            "created": 1741438974644,
+                                                            "text": "サービス",
+                                                            "expandState": "expand",
+                                                            "layout": null
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8asd4jtq4w0",
+                                                                    "created": 1741427036754,
+                                                                    "text": "ChatGPT\n（OpenAI）",
+                                                                    "layout": null,
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8dhauk3i7c0",
+                                                                            "created": 1741700505935,
+                                                                            "text": "創造性が高い"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8asdejl1s80",
+                                                                    "created": 1741427058507,
+                                                                    "text": "Perplexity\n（Perplexity AI, Inc.）",
+                                                                    "layout": null,
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8dhb0tc2d40",
+                                                                            "created": 1741700519554,
+                                                                            "text": "出典元の明示\nリアルタイム性",
+                                                                            "layout_right_offset": {
+                                                                                "x": -4,
+                                                                                "y": -7
+                                                                            }
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8dhfdtjjyg0",
+                                                                    "created": 1741700861322,
+                                                                    "text": "Genspark"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8dhfihzzhc0",
+                                                                            "created": 1741700871508,
+                                                                            "text": "出典元の明示\nPerplexityより詳細"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8asdbexk880",
+                                                                    "created": 1741427051695,
+                                                                    "text": "Claude\n（Anthropic）",
+                                                                    "layout": null,
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": [
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8czq3ynf680",
+                                                                            "created": 1741650921890,
+                                                                            "text": "Tier",
+                                                                            "note": "１分間当たりの制限\nでさらにこの上に１日あたりの制限というのがあります。",
+                                                                            "layout": null
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8dhi283a5k0",
+                                                                            "created": 1741701071172,
+                                                                            "text": "自然な日本語での文章生成に特化"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8dhkaj00ao0",
+                                                                            "created": 1741701245975,
+                                                                            "text": "安全性が高く、誤った情報を含んだ文章を生成する可能性が低い"
+                                                                        },
+                                                                        "children": []
+                                                                    },
+                                                                    {
+                                                                        "data": {
+                                                                            "id": "d8dhkflh2g80",
+                                                                            "created": 1741701257008,
+                                                                            "text": "コーディングや翻訳などのタスクに適している"
+                                                                        },
+                                                                        "children": []
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8asd6vtyvc0",
+                                                                    "created": 1741427041833,
+                                                                    "text": "Gemini",
+                                                                    "layout": null,
+                                                                    "expandState": "expand"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d8azwrhmbmg0",
+                                                            "created": 1741448323375,
+                                                            "text": "トークン",
+                                                            "layout": null,
+                                                            "note": "モデルが処理する文字の単位（テキストを分割したもの）\n"
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d8azz4ni12w0",
+                                                            "created": 1741448508757,
+                                                            "text": "埋め込みベクトル",
+                                                            "note": "「意味的な近さ」を表す数値・ベクトル\n",
+                                                            "layout": null
+                                                        },
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "data": {
+                                                            "id": "d8hjx8gbum80",
+                                                            "created": 1742114142240,
+                                                            "text": " 推論パラメータ",
+                                                            "expandState": "expand"
+                                                        },
+                                                        "children": [
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8hjxdnoujk0",
+                                                                    "created": 1742114153569,
+                                                                    "text": "温度",
+                                                                    "note": "低いほど保守的、高いほど創造的"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8hjyrgqpm00",
+                                                                    "created": 1742114261988,
+                                                                    "text": "トップP",
+                                                                    "note": "確率分布のX%に含まれる単語を分析対象にする。\n低いほど、コンテキストに関連性が高い単語の中から選択する。\n高いほど、出力に使用する単語の範囲が増え、創造的になる"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8hk2z94oow0",
+                                                                    "created": 1742114592399,
+                                                                    "text": "トップK",
+                                                                    "note": "出力する単語の可能性が高い上位X個を使う。\nトップPは確立分布、トップKは上位。"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8hk59mgji00",
+                                                                    "created": 1742114771701,
+                                                                    "text": "最大長",
+                                                                    "note": "出力の最大長。過剰な出力にｙるリソースの枯渇や望ましくない動作を防ぐ"
+                                                                },
+                                                                "children": []
+                                                            },
+                                                            {
+                                                                "data": {
+                                                                    "id": "d8hk6h4rsbc0",
+                                                                    "created": 1742114866410,
+                                                                    "text": "ストップシーケンス",
+                                                                    "note": "ストップシーケンスで設定した単語が出現すると生成を終了する"
+                                                                },
+                                                                "children": []
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8azue41p400",
+                                            "created": 1741448137528,
+                                            "text": "ファインチューニング",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8asey1limw0",
+                                            "created": 1741427179319,
+                                            "text": "RAG\nRetrieval Augmented Generation\n検索拡張生成",
+                                            "layout": null,
+                                            "expandState": "expand",
+                                            "note": "ChatGPTやGeminiに代表されるチャットAIに独自の情報源を付与する仕組みのことで、\n具体的には言語モデルによるテキスト生成に特定の知識や情報源（例えばナレッジベースなど）への検索を組み合わせることである。\n\nこれにより、回答内容がより専門的かつ正確になるため、事実とは異なる内容や文脈と無関係な内容の出力がもっともらしく生成される問題（ハルシネーション）をより回避しやすくなるというメリットがある。\n\nLLMに独自の知識をインプットして特化モデルへ育成するのはファインチューニング。\nRAGはあくまで独自知識の情報源置き場を都度探して、汎用モデルに都度インプットする。\nhttps://www.dir.co.jp/world/entry/solution/rag\n"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8asdmwu0a80",
+                                            "created": 1741427076722,
+                                            "text": "AWS Bedrock",
+                                            "layout": null,
+                                            "expandState": "expand"
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d8dhn9ir9340",
+                                                    "created": 1741701478876,
+                                                    "text": "基盤モデルをAWSからサーバレスで使える"
+                                                },
+                                                "children": []
+                                            },
+                                            {
+                                                "data": {
+                                                    "id": "d8hipudr52w0",
+                                                    "created": 1742110741950,
+                                                    "text": "クォータ：制限"
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8awrbdyb7s0",
+                                    "created": 1741439433174,
+                                    "text": "コンピュータビジョン（CV）",
+                                    "note": "コンピュータが画像や動画を理解し、分析する技術",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8awrlmhj7c0",
+                                    "created": 1741439455458,
+                                    "text": "自然言語処理（NLP）",
+                                    "note": "コンピュータが人間の言語を理解し、処理する技術\n\nNLPの技術の上にLLMなどの生成AIの技術が成り立っているという関係性",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d8awpr909uo0",
+                    "created": 1741439310975,
+                    "text": "プログラミング支援",
+                    "expandState": "expand",
+                    "layout": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d8cyn84p4hc0",
+                            "created": 1741647874760,
+                            "text": "コーディングアシスタント",
+                            "expandState": "expand",
+                            "note": "機能\n- 書きかけのコードを自動的に補完\n- コードの内容を自然言語でコメントとして記述するとそれを基にコードの自動生成\n- コードが何をしているかを説明\n- 生成AIとのチャットによるコードの生成やプログラミングに関する質問の回答\nなど",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8asc1ubh7k0",
+                                    "created": 1741426952494,
+                                    "text": "GithubCopilot",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8awzial41c0",
+                                            "created": 1741440075121,
+                                            "text": "ちゃんと設定して使いこなしたい",
+                                            "layout": null,
+                                            "progress": 1
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8ascpsjozk0",
+                                    "created": 1741427004629,
+                                    "text": "Cursor\n（AnySphere inc.）",
+                                    "layout": null,
+                                    "expandState": "expand"
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8awztcc9lk0",
+                                            "created": 1741440099172,
+                                            "text": "ちゃんと設定して使いこなしたい",
+                                            "layout": null,
+                                            "progress": 1
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8cyoc3tejk0",
+                                    "created": 1741647961778,
+                                    "text": "Amazon Q Developer\n（旧AWS CodeWhisperer）",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8cync68cs00",
+                            "created": 1741647883560,
+                            "text": "コーディングエージェント",
+                            "note": "コーディングアシスタントと統合されているものと、Devinのように単独のツールとして提供されているものに大別されます\n\n機能\n- 人間が自然言語で設定したタスクを基に、AIが主導してコーディングを行う\n- コーディングの前にAIが実装計画の作成やテストコードの作成なども行う\n- コマンドライン実行\n- エラーメッセージを読み取ったうえでのデバッグ\nなど",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8cysm7ysrs0",
+                                    "created": 1741648297254,
+                                    "text": "GithubCopilot",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8cyv2jfvjs0",
+                                    "created": 1741648489505,
+                                    "text": "Cursor",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8cyvdyfdrk0",
+                                    "created": 1741648514355,
+                                    "text": "Amazon Q Developer",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8cyv7tb4b40",
+                                    "created": 1741648500985,
+                                    "text": "Devin\n（Cognition社）",
+                                    "note": "人間が課題を与えると、自律的に情報を参照し、コーディングやデバッグ、デプロイを行い、システム構築を実現する機能を備える。",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8cyvjvrk800",
+                                    "created": 1741648527255,
+                                    "text": "Cline\n（オープンソース）",
+                                    "note": "Visual Studio Codeの拡張機能として導入するオープンソースのコーディングエージェント。\nタスクの入力やモックアップ画像を基にコードの生成や既存コードの編集、ターミナルの操作などを実行。\nClaude 3.5 SonnetのComputer Use機能によりWebブラウザによるWebアプリの操作とデバッグなども可能に。\n\nhttps://smooz.cloud/news/column/cline-claude/\n- 各種LLMのAPIを利用して動作します。そのため、Cline自体は無料ですが、使用するAPIに応じた料金が発生します。\n- computer useを利用できる点やLLMの賢さ、そしてprompt cachingを考えると、Clineを最大限に活用するには現状ではClaudeほぼ一択となります。\n",
+                                    "layout": null
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8czrfcjhog0",
+                                            "created": 1741651025039,
+                                            "text": "Clineをもとにしたフォークツール",
+                                            "layout": null
+                                        },
+                                        "children": [
+                                            {
+                                                "data": {
+                                                    "id": "d8czrimija80",
+                                                    "created": 1741651032172,
+                                                    "text": "Roo-Cline",
+                                                    "layout": null
+                                                },
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8cynjd188o0",
+                            "created": 1741647899209,
+                            "text": "アプリケーション自動生成\nText to App",
+                            "note": "v0 by Vercelに代表されるようにプロンプトの入力画面が非常にシンプルで、ユーザーに開発過程を意識させずに、迅速に生成結果としてのアプリケーションをプレビュー表示するのが特徴。\nプログラマだけでなく非プログラマもユーザーとして想定していると考えられるサービス\n\n比較的シンプルなロジックを持つWebアプリケーションやWebサイトの生成を想定しているものがほとんどです。\nまた、多くのサービスがプレビュー環境やデプロイ環境を備えており、その環境を利用して生成されたアプリケーションをプレビューし、さらにそのまま利用することを可能にしています。\n\n",
+                            "layout": null
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8czibi0baw0",
+                                    "created": 1741650311385,
+                                    "text": "v0 by Vercel",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8czj7ru90g0",
+                                    "created": 1741650381636,
+                                    "text": "GitHub Spark",
+                                    "layout": null
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8czjhyfwrc0",
+                                    "created": 1741650403803,
+                                    "text": "AWS App Studio",
+                                    "layout": null
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "d8ax50ftvu00",
+                    "created": 1741440506441,
+                    "text": "エンジニアの生存戦略",
+                    "note": "- https://qiita.com/lazy-kz/items/e4932f1a90c2a7986ef5#1-%E3%83%99%E3%83%86%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%AE%E7%94%9F%E5%AD%98%E6%88%A6%E7%95%A5\n\n**「AIに代替されるか？」ではなく「AIとどう共存し、活用するか？」を考えるのが生き残る鍵となります。\n",
+                    "layout": null,
+                    "progress": 2
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "d8envdtoyfk0",
+                            "created": 1741820601773,
+                            "text": "AIを活用するスキルを磨く",
+                            "layout_left_offset": {
+                                "x": 12,
+                                "y": -2
+                            },
+                            "progress": 9,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8enxg4huzk0",
+                                    "created": 1741820763509,
+                                    "text": "プロンプトエンジニアリング",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8enxjacb4w0",
+                                    "created": 1741820770392,
+                                    "text": "AIコードレビュー"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8ghaa5lq3c0",
+                                    "created": 1742005141393,
+                                    "text": "AIが書いたコードの良し悪しを判断できる力\n（良いとは何かを知っている（美しいものを知らないと美しいと評価できない））",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8n8dqtd4rk0",
+                                    "created": 1742690942458,
+                                    "text": "AIとディスカッションできる能力\n技術力、AIへの説明の仕方",
+                                    "layout_left_offset": {
+                                        "x": 3,
+                                        "y": 3
+                                    },
+                                    "progress": 9
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8enw4h5crk0",
+                            "created": 1741820659788,
+                            "text": "AIでは代替しにくい領域に特化"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8enxcccj940",
+                                    "created": 1741820755276,
+                                    "text": "ドメイン知識、業界"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8enxvouhvs0",
+                                    "created": 1741820797391,
+                                    "text": "特定の技術"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8eny09pvq00",
+                                    "created": 1741820807360,
+                                    "text": "システムアーキテクチャ設計やパフォーマンスチューニングなど、高度な専門スキル"
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8enydmoins0",
+                            "created": 1741820836442,
+                            "text": "AI開発そのものに関与"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8enykzkits0",
+                                    "created": 1741820852459,
+                                    "text": "AI（モデル）自体を開発"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8enyw2lroo0",
+                                    "created": 1741820876587,
+                                    "text": "AIの活用方法を提案\n既存のソフトウェア開発にAIを組み込む方法を模索する\n（例：AIを用いた自動テスト、異常検知システムの構築）",
+                                    "layout_left_offset": {
+                                        "x": 5,
+                                        "y": 12
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8enzmbj53c0",
+                            "created": 1741820933723,
+                            "text": "ソフトスキルを強化し、エンジニアリング以外の価値を提供",
+                            "layout_left_offset": {
+                                "x": -3,
+                                "y": 33
+                            },
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8enztlyr7s0",
+                                    "created": 1741820949591,
+                                    "text": "コミュニケーション能力を高め、チームリーダーやマネージャーを目指す",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8enzzyeeao0",
+                                    "created": 1741820963404,
+                                    "text": "ビジネス視点を身につけ、プロダクトマネージャーやテックリードの役割を担う"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8eo056zhsw0",
+                                    "created": 1741820974807,
+                                    "text": "クライアントや他部署と連携し、AI時代のエンジニアリングを牽引する",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gh0ox5ca80",
+                                    "created": 1742004389892,
+                                    "text": "能動的に動ける人\n（言われたことをやるのはAIでいい）",
+                                    "progress": 9
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8n87x2dxpk0",
+                                            "created": 1742690485879,
+                                            "text": "新ストーリー、改善タスクを自ら生み出す",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8so14rd2zk0",
+                                            "created": 1743242891620,
+                                            "text": "課題設定力",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8so19s66pc0",
+                                            "created": 1743242902553,
+                                            "text": "タスク分解力（AIに指示する粒度へ）",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8so0zzxayo0",
+                                            "created": 1743242881254,
+                                            "text": "疑問力",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gh4df18hk0",
+                                    "created": 1742004678308,
+                                    "text": "気づく能力が高い人\n（AIはコードベース外のことは気づけない）",
+                                    "note": "仕事におけるすべての物事を言語化し、AIに食わせることができれば、この気づく能力というのも不要になってくるかもしれないが、現実的にそれは無理だろう。\nしかも、万一それができたとしても、bizメンバーなどのステークホルダーやチームメンバーの心情や心の動きなどを捉えることはやはり人間でしか無理だろう。\n",
+                                    "progress": 9
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8ghdlhn7qo0",
+                            "created": 1742005401158,
+                            "text": "今よりも少人数チームになると思われるため、\n１人で担当できる範囲が広い人",
+                            "layout_left_offset": {
+                                "x": -76,
+                                "y": 20
+                            }
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "d8giyfa4vfc0",
+                                    "created": 1742009854401,
+                                    "text": "バックエンド",
+                                    "expandState": "expand",
+                                    "progress": 9
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8gizqo3lz40",
+                                            "created": 1742009957554,
+                                            "text": "DB"
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "d8gq94ji1sw0",
+                                            "created": 1742030440798,
+                                            "text": "Go"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8giyj1g4bk0",
+                                    "created": 1742009862582,
+                                    "text": "インフラ",
+                                    "progress": 9
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "d8gq8q3xc9c0",
+                                            "created": 1742030409381,
+                                            "text": "ネットワーク"
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "d8giym06nrk0",
+                                    "created": 1742009869036,
+                                    "text": "フロント\n（アーキテクチャレイヤーぐらいの上位レイヤーまで）",
+                                    "layout_left_offset": {
+                                        "x": -5,
+                                        "y": 4
+                                    }
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gizv1qq400",
+                                    "created": 1742009967086,
+                                    "text": "セキュリティ",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gqj4t5kr40",
+                                    "created": 1742031225023,
+                                    "text": "アーキテクチャ",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gqj82kurc0",
+                                    "created": 1742031232123,
+                                    "text": "パフォーマンスチューニング",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gqjdh4thc0",
+                                    "created": 1742031243887,
+                                    "text": "運用・監視",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gqjp7zhn40",
+                                    "created": 1742031269455,
+                                    "text": "スクラム",
+                                    "progress": 3
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8gqp4z6dl40",
+                                    "created": 1742031695572,
+                                    "text": "DevOps",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "d8n80v04no00",
+                                    "created": 1742689932840,
+                                    "text": "この観点では、システム規模は小さめのほうが良い\nと思ったがそうでもなさそう\nマイクロサービスだと結局担当するシステム規模は小さくなる\nでもそういう組織だとSREとかもしっかりいそうなので\n幅広くできることのメリットが少ないか\n結論、小規模の会社のほうが良さそうか？\nでも範囲が広い分、業務負担はでかそう",
+                                    "layout_left_offset": {
+                                        "x": -2,
+                                        "y": 59
+                                    }
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "d8grov3agvs0",
+                            "created": 1742034495163,
+                            "text": "AIとは関係なく、\n才能を活かす",
+                            "note": "才能＝「欲求を満たす方向で現れる低負荷な思考・行動パターン」\n\n- 集中すると周りの音に気づかなくなる\n- 周りを見る\n- 発言して場を活気づける、話やすい雰囲気を作ろうとする\n- いかに安定させるか\n- 人を助ける、役に立つこと動きをするのが得意\n- 人の気持ちを察するのが得意\n- 同僚を助けるという観点でいうと、それはマネージャーでもシニアエンジニアでもできそう。テックリードは方向性が違いそう。\n- "
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
